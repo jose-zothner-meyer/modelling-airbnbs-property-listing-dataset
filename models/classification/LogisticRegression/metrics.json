@@ -1,0 +1,1 @@
+{"Train_Metrics": {"Accuracy": 0.14177215189873418, "Precision": 0.17145712160457185, "Recall": 0.17141507396609434, "F1": 0.15946470701302054}, "Validation_Metrics": {"Accuracy": 0.0, "Precision": 0.0, "Recall": 0.0, "F1": 0.0}, "Test_Metrics": {"Accuracy": 0.020202020202020204, "Precision": 0.005663430420711974, "Recall": 0.019417475728155338, "F1": 0.008737864077669903}}
