@@ -1,0 +1,1 @@
+{"optimiser": "SGD", "lr": 1e-05, "hidden_layer_width": 16, "depth": 1}
