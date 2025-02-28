@@ -317,7 +317,7 @@ def save_model(
     None
         This function performs I/O operations but does not return a value.
     """
-    models_dir = 'modelling-airbnbs-property-listing-dataset-193/models/'  # Main models folder name
+    models_dir = 'modelling-airbnbs-property-listing-dataset/models/'  # Main models folder name
 
     # Get the parent directory of the current working directory
     current_dir = os.path.dirname(os.getcwd())
@@ -330,7 +330,7 @@ def save_model(
         os.mkdir(models_path)
 
     # Create the "regression" sub-directory within "models"
-    regression_dir = 'modelling-airbnbs-property-listing-dataset-193/models/regression/'
+    regression_dir = 'modelling-airbnbs-property-listing-dataset/models/regression/'
     regression_path = os.path.join(current_dir, regression_dir)
     if not os.path.exists(regression_path):
         os.mkdir(regression_path)
@@ -424,7 +424,7 @@ def find_best_model(models: List[Any]) -> Tuple[Any, Dict[str, Any], Dict[str, f
     best_metrics_dict = {}            # To store performance metrics of the best model
     
     # Path to the "regression" folder containing each model subfolder
-    regression_dir = "modelling-airbnbs-property-listing-dataset-193/models/regression"
+    regression_dir = "modelling-airbnbs-property-listing-dataset/models/regression"
     current_dir = os.path.dirname(os.getcwd())
     regression_path = os.path.join(current_dir, regression_dir)
 

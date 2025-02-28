@@ -1,0 +1,4 @@
+optimiser: SGD
+lr: 0.01
+hidden_layer_width: 16
+depth: 5

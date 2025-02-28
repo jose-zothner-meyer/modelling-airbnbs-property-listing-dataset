@@ -174,3 +174,5 @@ cython_debug/
 images/
 tabular_data/
 *model.joblib
+*.pt 
+runs/
