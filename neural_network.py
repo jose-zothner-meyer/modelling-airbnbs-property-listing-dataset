@@ -521,7 +521,7 @@ def load_data_2() -> Tuple[pd.DataFrame, pd.Series]:
 
 
 # Load data using the defined function.
-X, y = load_data()
+X, y = load_data_2()
 dataset: AirbnbNightlyPriceRegressionDataset = AirbnbNightlyPriceRegressionDataset(X, y)
 
 # Split the data into training (80%), testing (10%), and validation (10%) sets.
