@@ -1,14 +1,18 @@
 # Modelling Airbnb's Property Listing Dataset
 
-<div style="display: flex; flex-direction: row;">
-    <img src="./readme_images/Results.png" alt="Hangman lost Image" style="width: 45%; margin-right: 5%;">
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="width: 80%;">
     <a href="https://www.youtube.com/watch?v=Tub0xAsNzk8" target="_blank">
-        <img src="https://img.youtube.com/vi/Tub0xAsNzk8/0.jpg" alt="Watch project overview on YouTube" style="width: 45%;">
+      <img src="https://img.youtube.com/vi/Tub0xAsNzk8/0.jpg" alt="Watch project overview on YouTube" style="width: 100%; margin-bottom: 20px;">
+  </div>
+  <div style="width: 80%;">
+    <img src="./readme_images/Results.png" alt="Hangman lost Image" style="width: 100%;">
     </a>
+  </div>
 </div>
 
 <div style="text-align: right; font-size: small;">
-    <p><i>Results on terminal after running main.py and clickable link to YT for project overview.</i></p>
+    <p><i>Clickable link to YT for project overview AND results on terminal after running main.py.</i></p>
 </div>
 
 
