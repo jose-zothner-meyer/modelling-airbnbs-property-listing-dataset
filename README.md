@@ -1,5 +1,17 @@
 # Modelling Airbnb's Property Listing Dataset
 
+<div style="display: flex; flex-direction: row;">
+    <img src="./readme_images/Results.png" alt="Hangman lost Image" style="width: 45%; margin-right: 5%;">
+    <a href="https://www.youtube.com/watch?v=Tub0xAsNzk8" target="_blank">
+        <img src="https://img.youtube.com/vi/Tub0xAsNzk8/0.jpg" alt="Watch project overview on YouTube" style="width: 45%;">
+    </a>
+</div>
+
+<div style="text-align: right; font-size: small;">
+    <p><i>Results on terminal after running main.py and clickable link to YT for project overview.</i></p>
+</div>
+
+
 ## Table of Contents
 - [Modelling Airbnb's Property Listing Dataset](#modelling-airbnbs-property-listing-dataset)
   - [Table of Contents](#table-of-contents)
@@ -20,7 +32,7 @@
     - [Recommendations](#recommendations)
 
 ## Description
-This project aims to build a comprehensive framework for modelling Airbnb's property listing dataset. The primary objectives include data preprocessing, training machine learning models for regression and classification tasks, hyperparameter tuning, model evaluation, and deployment. The project also focuses on utilizing PyTorch for neural network modelling and integration of TensorBoard for visualization.
+This project aims to build a comprehensive framework for modelling Airbnb's property listing dataset. The primary objectives include data preprocessing, <b>training machine learning models for regression and classification</b> tasks, hyperparameter tuning, model evaluation, and deployment. The project <b>also focuses</b> on utilizing PyTorch <b>for neural network modelling</b> and integration of TensorBoard for visualization.
 
 The ultimate aim of this project is to gain insights into the factors affecting property prices on Airbnb and to develop predictive models that can assist hosts in setting competitive prices and improve the overall user experience for guests.
 
